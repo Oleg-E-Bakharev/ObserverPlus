@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftObserver",
+        "repositoryURL": "https://github.com/Oleg-E-Bakharev/SwiftObserver",
+        "state": {
+          "branch": null,
+          "revision": "644f52d74a8a14b41e0da0c0e386a49560647c0e",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
